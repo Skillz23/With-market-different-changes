@@ -1,0 +1,24 @@
+{
+  "name": "orderly-bot-v9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@noble/ed25519": "^1.7.3",
+    "@noble/hashes": "^1.8.0",
+    "@types/node": "^25.5.0",
+    "@types/ws": "^8.18.1",
+    "axios": "^1.13.6",
+    "bs58": "^6.0.0",
+    "dotenv": "^17.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2",
+    "ws": "^8.20.0"
+  }
+}
